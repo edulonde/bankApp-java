@@ -16,3 +16,13 @@ Aplicação tarefas:
   - poupanca: .25 pontos menos que a taxa base
   - corrente: 15% da taxa base
 - o método mostrarInfo() deverá mostrars informações relevantes.
+
+
+Objetivos:
+- aprender arquitetura
+- usar classes abstratas e métodos abstratos
+- usar API para receber informação de uma outra aplicação
+- exploar o método construtor e o `super()`
+- Usar modificadores de acesso `public`, `private` ou `protected`
+- Ler dados de um arquivo e armazenar em uma esrutura de dados apropriada
+- Gerar numeros randômicos e trabalhar com String API
